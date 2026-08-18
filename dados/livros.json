@@ -1,0 +1,14 @@
+[
+  {
+    "título": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "ano": 1899,
+    "lido": true
+  },
+  {
+    "título": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "ano": 1945,
+    "lido": false
+  }
+]
